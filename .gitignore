@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Config for using the package
+config.json
