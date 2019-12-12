@@ -1,0 +1,14 @@
+{
+  "repository_name": "memento",
+  "open_issues": "62",
+  "open_issues_by_label": [
+    {
+      "name": "bug",
+      "count": "12"
+    },
+    {
+      "name": "features",
+      "count": "12"
+    }
+  ]
+}
