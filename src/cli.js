@@ -11,7 +11,7 @@ const yargs = require('yargs')
   .alias('h', 'help')
   .option('c', {
     alias: 'config',
-    describe: 'Configure the path of config.json',
+    describe: 'Path of config.json',
     requiresArg: true,
     nargs: 1,
     demand: 'config.json file is required',
