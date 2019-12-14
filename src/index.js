@@ -30,7 +30,7 @@ function summarizeIssuesByRepo (response, repository) {
   for (const issue of response) {
     if (!Object.prototype.hasOwnProperty.call(issue, 'pull_request')) {
       openIssuesCount++;
-      if (!Object.prototype.hasOwnProperty.call(issue, 'labels')) {
+      if (!Object.prototype.hasOwnProperty.call(issue, 'label')) {
         for (const label of issue.labels) {
           if (label.name in countersByLabel) {
             countersByLabel[label.name]++;
