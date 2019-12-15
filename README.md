@@ -1,15 +1,10 @@
-<a href="https://travis-ci.com/obieler/github-issues-summary">
-  <img src="https://travis-ci.com/obieler/github-issues-summary.svg?branch=master" alt="Travis build status">
-</a>
-<img alt="License" src="https://img.shields.io/github/license/obieler/github-issues-summary">
-
-
 github-issues-summary
 =====================
 
-**Work in progress**
+[![Travis](https://travis-ci.com/obieler/github-issues-summary.svg?branch=master)]()
+[![License](https://img.shields.io/github/license/obieler/github-issues-summary)]()
 
-This package provides a summary of opened GitHub issues by label and repository.
+Provides a summary of opened GitHub issues by label and repository.
 
 
 Usage as a command line utility
@@ -42,7 +37,6 @@ Options:
   "token": "<your GitHub generated token>",
   "repositories": [
     "<a Github repository name>",
-    "<another Github repository name>",
     "<another Github repository name>",
     "<aonther Github repository name>",
     "<aonther Github repository name>"
