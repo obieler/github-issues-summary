@@ -12,8 +12,6 @@ Usage as a command line utility
 
 ### Install
 
-:warning: Not already available NPM.
-
 ```bash
 npm i github-issues-summary -g
 ```
