@@ -2,6 +2,7 @@ github-issues-summary
 =====================
 
 [![Travis](https://travis-ci.com/obieler/github-issues-summary.svg?branch=master)]()
+[![Dependencies](https://david-dm.org/obieler/github-issues-summary.svg)]()
 [![License](https://img.shields.io/github/license/obieler/github-issues-summary)]()
 
 Provides a summary of opened GitHub issues by label and repository.
